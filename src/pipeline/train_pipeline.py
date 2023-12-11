@@ -1,0 +1,1 @@
+#from train pipeleine I will trigger the components from the component folder.
