@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 #-e . #install the packages in editable mode so that changes to the code are immediately available. it is mapped to setup.py
